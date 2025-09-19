@@ -1,0 +1,68 @@
+{
+  "quizzes": [
+    {
+      "question": "What ___ your name?",
+      "options": ["am", "is", "are", "be"],
+      "correct_answer": 1,
+      "explanation": "We use 'is' with 'what' when asking about singular subjects.",
+      "level": "A1",
+      "topic": "basic",
+      "quiz_type": "grammar",
+      "difficulty": 1
+    },
+    {
+      "question": "I ___ to the cinema yesterday.",
+      "options": ["go", "went", "have gone", "going"],
+      "correct_answer": 1,
+      "explanation": "We use past simple 'went' for completed actions in the past with time markers like 'yesterday'.",
+      "level": "A2", 
+      "quiz_type": "grammar",
+      "difficulty": 2
+    },
+    {
+      "question": "If I ___ rich, I would travel the world.",
+      "options": ["am", "was", "were", "be"],
+      "correct_answer": 2,
+      "explanation": "In second conditional, we use 'were' for all persons after 'if'.",
+      "level": "B1",
+      "quiz_type": "grammar", 
+      "difficulty": 3
+    },
+    {
+      "question": "The project ___ by next Friday.",
+      "options": ["will finish", "will be finished", "finishes", "finished"],
+      "correct_answer": 1,
+      "explanation": "We use future passive 'will be finished' when the subject receives the action.",
+      "level": "B2",
+      "quiz_type": "grammar",
+      "difficulty": 4
+    },
+    {
+      "question": "Had she studied harder, she ___ the exam.",
+      "options": ["would pass", "would have passed", "passed", "will pass"],
+      "correct_answer": 1,
+      "explanation": "Third conditional uses 'would have + past participle' in the main clause.",
+      "level": "C1",
+      "quiz_type": "grammar",
+      "difficulty": 5
+    },
+    {
+      "question": "Choose the correct preposition: I arrived ___ London at midnight.",
+      "options": ["to", "in", "at", "on"],
+      "correct_answer": 1,
+      "explanation": "We use 'in' with cities and countries when talking about arrival.",
+      "level": "A2",
+      "quiz_type": "grammar",
+      "difficulty": 2
+    },
+    {
+      "question": "She has been working here ___ five years.",
+      "options": ["since", "for", "during", "while"],
+      "correct_answer": 1,
+      "explanation": "We use 'for' with periods of time (five years, two months, etc.).",
+      "level": "B1",
+      "quiz_type": "grammar",
+      "difficulty": 3
+    }
+  ]
+}

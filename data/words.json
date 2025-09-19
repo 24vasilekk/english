@@ -1,0 +1,144 @@
+{
+  "words": [
+    {
+      "word": "hello",
+      "transcription": "həˈloʊ",
+      "translation": "привет",
+      "definition": "A greeting used when meeting someone",
+      "example": "Hello, how are you today?",
+      "level": "A1",
+      "topic": "basic",
+      "frequency_rank": 1
+    },
+    {
+      "word": "cat",
+      "transcription": "kæt", 
+      "translation": "кот",
+      "definition": "A small domestic animal with fur",
+      "example": "I have a black cat named Luna.",
+      "level": "A1",
+      "topic": "animals",
+      "frequency_rank": 2
+    },
+    {
+      "word": "house",
+      "transcription": "haʊs",
+      "translation": "дом",
+      "definition": "A building where people live",
+      "example": "This is my house with a red roof.",
+      "level": "A1", 
+      "topic": "home",
+      "frequency_rank": 3
+    },
+    {
+      "word": "water",
+      "transcription": "ˈwɔːtər",
+      "translation": "вода",
+      "definition": "A clear liquid essential for life",
+      "example": "I drink eight glasses of water daily.",
+      "level": "A1",
+      "topic": "food",
+      "frequency_rank": 4
+    },
+    {
+      "word": "work",
+      "transcription": "wɜːrk",
+      "translation": "работа",
+      "definition": "Activity involving effort to achieve a purpose",
+      "example": "I go to work every morning at 9 AM.",
+      "level": "A1",
+      "topic": "work",
+      "frequency_rank": 5
+    },
+    {
+      "word": "restaurant",
+      "transcription": "ˈrestərɑːnt",
+      "translation": "ресторан", 
+      "definition": "A place where you can buy and eat meals",
+      "example": "We went to a nice Italian restaurant.",
+      "level": "A2",
+      "topic": "food",
+      "frequency_rank": 15
+    },
+    {
+      "word": "vacation",
+      "transcription": "veɪˈkeɪʃən",
+      "translation": "отпуск",
+      "definition": "A period of time when you don't work",
+      "example": "I'm going on vacation to Spain next month.",
+      "level": "A2",
+      "topic": "travel",
+      "frequency_rank": 25
+    },
+    {
+      "word": "computer",
+      "transcription": "kəmˈpjuːtər",
+      "translation": "компьютер",
+      "definition": "An electronic device for processing data",
+      "example": "I use my computer for work and entertainment.",
+      "level": "A2", 
+      "topic": "technology",
+      "frequency_rank": 20
+    },
+    {
+      "word": "achievement",
+      "transcription": "əˈtʃiːvmənt",
+      "translation": "достижение",
+      "definition": "Something successful that you have accomplished",
+      "example": "Getting this promotion was a great achievement.",
+      "level": "B1",
+      "topic": "work",
+      "frequency_rank": 50
+    },
+    {
+      "word": "environment",
+      "transcription": "ɪnˈvaɪrənmənt", 
+      "translation": "окружающая среда",
+      "definition": "The natural world around us",
+      "example": "We must protect the environment for future generations.",
+      "level": "B1",
+      "topic": "nature",
+      "frequency_rank": 40
+    },
+    {
+      "word": "sophisticated",
+      "transcription": "səˈfɪstɪkeɪtɪd",
+      "translation": "сложный, утонченный",
+      "definition": "Complex, advanced, or refined",
+      "example": "This is a sophisticated piece of technology.",
+      "level": "B2", 
+      "topic": "general",
+      "frequency_rank": 100
+    },
+    {
+      "word": "entrepreneur",
+      "transcription": "ˌɑːntrəprəˈnɜːr",
+      "translation": "предприниматель",
+      "definition": "Someone who starts their own business",
+      "example": "She's a successful tech entrepreneur.",
+      "level": "B2",
+      "topic": "work", 
+      "frequency_rank": 150
+    },
+    {
+      "word": "phenomenon",
+      "transcription": "fəˈnɑːmɪnən",
+      "translation": "явление",
+      "definition": "A remarkable or extraordinary occurrence",
+      "example": "The Northern Lights are a beautiful natural phenomenon.",
+      "level": "C1",
+      "topic": "science",
+      "frequency_rank": 200
+    },
+    {
+      "word": "ubiquitous",
+      "transcription": "juːˈbɪkwɪtəs", 
+      "translation": "вездесущий",
+      "definition": "Present everywhere at the same time",
+      "example": "Smartphones have become ubiquitous in modern society.",
+      "level": "C2",
+      "topic": "technology",
+      "frequency_rank": 500
+    }
+  ]
+}
