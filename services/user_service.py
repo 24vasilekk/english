@@ -21,8 +21,8 @@ class UserService:
                 username=username,
                 first_name=first_name,
                 last_name=last_name,
-                subscription_end=datetime.utcnow() + timedelta(days=3),  # 3 дня бесплатно
-                is_premium=True  # Бесплатный период
+                subscription_end=datetime.utcnow() + timedelta(days=365),  # 1 год бесплатно
+                is_premium=True  # Сразу премиум
             )
             
             self.db.add(user)
@@ -36,7 +36,7 @@ class UserService:
             await self.db.rollback()
             logger.error(f"Error creating user {telegram_id}: {e}")
             raise
-    
+
     async def get_user(self, telegram_id: int) -> Optional[User]:
         """Получение пользователя по Telegram ID"""
         try:

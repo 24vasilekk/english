@@ -121,6 +121,15 @@ def generate_random_string(length: int = 8) -> str:
 
 def is_premium_feature_available(user) -> bool:
     """Проверка доступности премиум функций"""
+    from config import config
+    
+    # Если включен бесплатный режим или пользователь админ
+    if getattr(config, 'FREE_MODE', False):
+        return True
+        
+    if user.telegram_id in getattr(config, 'ADMIN_IDS', []):
+        return True
+        
     if not user.subscription_end:
         return False
     return user.is_premium and user.subscription_end > datetime.utcnow()
