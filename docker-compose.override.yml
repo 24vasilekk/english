@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  bot:
+    volumes:
+      - .:/app
+    environment:
+      - DEBUG=True
+    command: python -m debugpy --listen 0.0.0.0:5678 --wait-for-client bot.py
+
+  postgres:
+    ports:
+      - "5432:5432"
+    
+  redis:
+    ports:
+      - "6379:6379"
